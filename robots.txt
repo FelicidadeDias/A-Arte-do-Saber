@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://felicidadedias.github.io/A-Arte-do-Saber/sitemap.xml
