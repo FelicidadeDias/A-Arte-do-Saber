@@ -1,0 +1,10 @@
+{
+  "name": "Arte do Saber — Centro de Formação",
+  "short_name": "Arte do Saber",
+  "lang": "pt-AO",
+  "start_url": "/A-Arte-do-Saber/",
+  "display": "standalone",
+  "background_color": "#fffaf0",
+  "theme_color": "#650b16",
+  "description": "Centro de Formação Arte do Saber — formações e serviços educacionais."
+}
